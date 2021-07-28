@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Shivani-Saini27
+- Working in @Capgemini as Senior Analyst.
 - 👀 I’m interested in Machine Learning and Deep Learning with Computer vision Application
 - 🌱 I’m currently practising Machine Learning implementation and Image processing 
 - 💞️ I’m looking to collaborate as python developer or as Data analyst 
